@@ -1,7 +1,7 @@
 # Hi there 👋, i'm Genaro Canciani, welcome to my Github page!
 🖥️`AI Student (Python / SQL / Power BI / Machine Learning)`🖥️
 
-I am Genaro Canciani, a student of the University Technical Degree in Artificial Intelligence at UNR. I am passionate about the world of artificial intelligence and constantly seek to acquire more knowledge and skills related to the field. I specialize in solving complex problems using tools such as Python, SQL, Power BI, and Git.
+I am passionate about the world of artificial intelligence and constantly seek to acquire more knowledge and skills related to the field, using my favourite programming language, Python.
 
 ## 🧾 About Me
 • 🌍 From Rosario, Santa Fe, Argentina.  
