@@ -1,5 +1,5 @@
 # Hi there 👋, i'm Genaro Canciani, welcome to my Github page!
-🖥️`AI Student (Python / SQL / Power BI / Machine Learning)`🖥️
+🖥️`AI Student`🖥️
 
 I am passionate about the world of artificial intelligence and constantly seek to acquire more knowledge and skills related to the field, using my favourite programming language, Python.
 
