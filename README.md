@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋, i'm Genaro Canciani, welcome to my Github page!
+🖥️`AI Student (Python / SQL / Power BI / Machine Learning)`🖥️
 
-<!--
-**GenaCanciani/GenaCanciani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Genaro Canciani, a student of the University Technical Degree in Artificial Intelligence at UNR. I am passionate about the world of artificial intelligence and constantly seek to acquire more knowledge and skills related to the field. I specialize in solving complex problems using tools such as Python, SQL, Power BI, and Git.
 
-Here are some ideas to get you started:
+## 🧾 About Me
+• 🌍 From Rosario, Santa Fe, Argentina.  
+• 🎓 AI student at the National University of Rosario (UNR).  
+• 📚 Passionate about machine learning, computer vision, and natural language processing.  
+• 💻 Experienced in Python, SQL, and data visualization with Power BI.  
+• 🚀 Working on personal projects to apply AI in real-world scenarios.  
+• 🌱 Continuously learning and improving my skills in software development and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️🧰 Skills and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="FastAPI" width="40" height="40"/>
+</p>
+
+### 📱 Contact
+• genarocanciani@gmail.com
+
+• https://www.linkedin.com/in/genaro-canciani-820608221
+
