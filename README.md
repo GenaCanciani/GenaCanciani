@@ -11,6 +11,24 @@ I am passionate about the world of artificial intelligence and constantly seek t
 • 🚀 Working on personal projects to apply AI in real-world scenarios.  
 • 🌱 Continuously learning and improving my skills in software development and data science.
 
+## 📂 Featured Projects
+- **[ReAct-MultiSource-NLP-Agent](https://github.com/GenaCanciani/ReAct-MultiSource-NLP-Agent)**  
+  - 📝 **Description:**  
+    **Multi-Source AI Assistant (ReAct + Gemini 2.5 Flash)** designed as an intelligent **chatbot assistant** for complex queries about home appliances.  
+
+    It features a **complete end-to-end data processing and extraction pipeline**, including **dataset ingestion, cleaning and transformation**, followed by the **construction of tabular (Pandas), vector (RAG), and graph (Neo4j) databases from heterogeneous data sources**.  
+
+    At its core, the system implements an **autonomous ReAct-based assistant** capable of **conversational interaction**, **reasoning across multiple data modalities**, **dynamically selecting the appropriate tools**, and **automatically generating code to provide accurate, context-aware responses**.  
+
+  - 🛠 **Tech Stack:** Python, Pandas, Gemini-API, Matplotlib, Neo4j, ChromaDB.
+-  **[Rain Prediction in Australia](https://github.com/GenaCanciani/AA1-TUIA-Canciani-Mancini-Morales/tree/fixes-G)** 
+  - 📝 **Description:**  
+    Developed a **Machine Learning / Deep Learning system** to predict **next-day rainfall** using a historical Australian weather dataset.  
+
+    The pipeline includes **advanced feature engineering**, **modeling with AutoML and neural networks**, **class imbalance handling (class weighting & SMOTE)**, **model explainability with SHAP**, and **production deployment using Docker**.  
+
+  - 🛠 **Tech Stack:** Python, Pandas, Scikit-learn, AutoML, Neural Networks, SHAP, Docker.
+
 ## 🛠️🧰 Skills and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
