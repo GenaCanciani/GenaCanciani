@@ -21,7 +21,7 @@ I am passionate about the world of artificial intelligence and constantly seek t
     At its core, the system implements an **autonomous ReAct-based assistant** capable of **conversational interaction**, **reasoning across multiple data modalities**, **dynamically selecting the appropriate tools**, and **automatically generating code to provide accurate, context-aware responses**.  
 
   - 🛠 **Tech Stack:** Python, Pandas, Gemini-API, Langchain, Matplotlib, Neo4j, ChromaDB.
--  **[Rain Prediction in Australia](https://github.com/GenaCanciani/AA1-TUIA-Canciani-Mancini-Morales/tree/fixes-G)** 
+-  **[Rain Prediction in Australia](https://github.com/GenaCanciani/AA1-TUIA-Canciani-Mancini-Morales)** 
   - 📝 **Description:**  
     Developed a **Machine Learning / Deep Learning system** to predict **next-day rainfall** using a historical Australian weather dataset.  
 
