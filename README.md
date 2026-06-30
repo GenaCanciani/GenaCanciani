@@ -1,5 +1,5 @@
 # Hi there 👋, i'm Genaro Canciani, welcome to my Github page!
-🖥️`AI Student`🖥️
+🖥️`AI Developer`🖥️
 
 I am passionate about the world of artificial intelligence and constantly seek to acquire more knowledge and skills related to the field, using my favourite programming language, Python.
 
@@ -21,13 +21,32 @@ I am passionate about the world of artificial intelligence and constantly seek t
     At its core, the system implements an **autonomous ReAct-based assistant** capable of **conversational interaction**, **reasoning across multiple data modalities**, **dynamically selecting the appropriate tools**, and **automatically generating code to provide accurate, context-aware responses**.  
 
   - 🛠 **Tech Stack:** Python, Pandas, Gemini-API, Langchain, Matplotlib, Neo4j, ChromaDB.
--  **[Rain Prediction in Australia](https://github.com/GenaCanciani/AA1-TUIA-Canciani-Mancini-Morales)** 
+- **[Dog Breed Recognition & Classification System](https://github.com/GenaCanciani/tuia-dog-recognition-app/tree/feature/Stage1)**  
+  - 📝 **Description:**  
+    **End-to-End Computer Vision System** designed for **content-based image retrieval**, **fine-grained dog breed classification**, and **real-time object detection**.  
+
+    The system features a **multi-stage vision pipeline** starting with **deep embedding extraction** and **vector similarity search** (k-NN retrieval using **PostgreSQL + pgvector**), progressing into **custom CNN architectures** and **transfer learning fine-tuning** (`ResNet18`), and culminating in **real-time bounding box detection** (`YOLOv8`) with localized crop classification.  
+
+    Built for production scalability, it implements an **asynchronous microservices architecture** driven by a **FastAPI backend** with non-blocking job processing (`HTTP 202`), an interactive **Gradio frontend UI**, rigorous evaluation metrics (**NDCG@10**, F1, specificity), and full containerization via **Docker Compose**.  
+
+  - 🛠 **Tech Stack:** Python, PyTorch, YOLOv8, FastAPI, Gradio, PostgreSQL, pgvector, Scikit-learn, Docker.
+- **[Facial Recognition & Biometric Verification System](https://github.com/Juanmora29/tuia-face-recognition-app/tree/fix/efficientnet-model)**  
+  - 📝 **Description:**  
+    **End-to-End Biometric Vision System** designed for **open-set facial identification**, **identity verification**, and **multi-face feature extraction** across complex visual scenes.  
+
+    The system implements a **multi-stage computer vision pipeline** utilizing **RetinaFace** for high-precision face detection and **5-point geometric landmark alignment**, followed by **deep biometric embedding extraction** combining custom fine-tuned `EfficientNet-B0` networks trained with **ArcFace additive angular margin loss** and production-grade state-of-the-art representations (`ResNet-50`).  
+
+    Engineered for real-world deployment, it features **open-set classification** with configurable similarity thresholds (`cosine` & `L2`) to reliably reject unknown identities, vector storage and k-NN search via **PostgreSQL + pgvector**, an **asynchronous FastAPI backend** with background task management and polling (`HTTP 202`), an interactive **Gradio frontend UI** with visual overlays for bounding boxes and facial keypoints, and full containerization via **Docker Compose**.  
+
+  - 🛠 **Tech Stack:** Python, PyTorch, OpenCV, InsightFace, FastAPI, Gradio, PostgreSQL, pgvector, Scikit-learn, Docker.
+- **[Rain Prediction in Australia](https://github.com/GenaCanciani/AA1-TUIA-Canciani-Mancini-Morales)**  
   - 📝 **Description:**  
     Developed a **Machine Learning / Deep Learning system** to predict **next-day rainfall** using a historical Australian weather dataset.  
 
     The pipeline includes **advanced feature engineering**, **modeling with AutoML and neural networks**, **class imbalance handling (class weighting & SMOTE)**, **model explainability with SHAP**, and **production deployment using Docker**.  
 
   - 🛠 **Tech Stack:** Python, Pandas, Scikit-learn, AutoML, Neural Networks, SHAP, Docker.
+
 
 ## 🛠️🧰 Skills and Tools
 
